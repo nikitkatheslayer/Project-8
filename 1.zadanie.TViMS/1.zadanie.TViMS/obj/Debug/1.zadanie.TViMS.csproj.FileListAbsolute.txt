@@ -1,0 +1,10 @@
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\bin\Debug\1.zadanie.TViMS.exe.config
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\bin\Debug\1.zadanie.TViMS.exe
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\bin\Debug\1.zadanie.TViMS.pdb
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\obj\Debug\1.zadanie.TViMS.csprojAssemblyReference.cache
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\obj\Debug\_1.zadanie.TViMS.Form1.resources
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\obj\Debug\_1.zadanie.TViMS.Properties.Resources.resources
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\obj\Debug\1.zadanie.TViMS.csproj.GenerateResource.cache
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\obj\Debug\1.zadanie.TViMS.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\obj\Debug\1.zadanie.TViMS.exe
+C:\Users\nikit\Documents\Programs\1.zadanie.TViMS\1.zadanie.TViMS\obj\Debug\1.zadanie.TViMS.pdb
